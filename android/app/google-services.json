@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937242759821",
+    "firebase_url": "https://setuptest-cbb94.firebaseio.com",
+    "project_id": "setuptest-cbb94",
+    "storage_bucket": "setuptest-cbb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937242759821:android:0c8382c09139e63e7fc8c4",
+        "android_client_info": {
+          "package_name": "com.setupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937242759821-0nhv9vgk9k6glmqvu21uku0errrj8n8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtV35UwrZJQzI8LCJz8Ep8J7O40nDT2Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937242759821-0nhv9vgk9k6glmqvu21uku0errrj8n8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
